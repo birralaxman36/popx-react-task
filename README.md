@@ -48,12 +48,31 @@ npm run build
 
 ## Live Demo
 
-Hosted Link: [Add Netlify URL Here]
+Hosted Application:
+
+https://popx-acc-app.netlify.app
 
 ## Repository
 
 GitHub Repository:
+
 https://github.com/birralaxman36/popx-react-task
+
+## Project Structure
+
+```text
+src/
+├── pages/
+│   ├── Welcome.jsx
+│   ├── Login.jsx
+│   ├── Register.jsx
+│   └── Account.jsx
+├── styles/
+│   └── App.css
+├── assets/
+├── App.jsx
+└── main.jsx
+```
 
 ## Author
 
